@@ -8,6 +8,7 @@ namespace Lab_1_2_
     {
         static void Main(string[] args)
         {
+            
             first();
             second();
             third();
